@@ -10,5 +10,5 @@
 Meu nome é Jonatha Rihan, Bacharel em Ciência da Computação e Desenvolvedor. 
 
 - :office_worker: Desenvolvedor Fullstack Freelancer
-- :blue_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript e mais!
-- :smart_phone: 3 Aplicativos publicados na Google PlayStore
+- :purple_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript e mais!
+- :iphone: 3 Aplicativos publicados na Google PlayStore
