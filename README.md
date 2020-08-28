@@ -7,7 +7,7 @@
 
 ## Olá! :)
 
-Meu nome é Jonatha Rihan, Bacharel em Ciência da Computação e Desenvolvedor. 
+Meu nome é Jonatha Rihan, Bacharelando em Ciência da Computação e Desenvolvedor. 
 
 - :office_worker: Desenvolvedor Fullstack Freelancer
 - :purple_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript e mais!
