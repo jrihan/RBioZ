@@ -25,3 +25,10 @@ Meu nome é Jonatha Rihan, Bacharelando em Ciência da Computação e Desenvolve
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
+**This week I spent my time on**
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rbioz&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbioz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rbioz)](https://github.com/anuraghazra/github-readme-stats)
