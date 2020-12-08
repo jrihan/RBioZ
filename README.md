@@ -30,5 +30,5 @@ Meu nome é Jonatha Rihan, Bacharelando em Ciência da Computação e Desenvolve
 **This week I spent my time on**
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rbioz&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbioz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![rbioz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@RBioZ)](https://github.com/rbioz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbioz&layout=compact)](https://github.com/rbioz/rbioz/README.md)
+[![rbioz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@RBioZ)](https://github.com/rbioz/rbioz/README.md)
