@@ -14,7 +14,7 @@ Meu nome é Jonatha Rihan, Bacharelando em Ciência da Computação e Desenvolve
 - :purple_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript e mais!
 - :iphone: 3 Aplicativos publicados na Google PlayStore
 
-**Languages and Tools:**  
+**Languages and Tools**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -28,7 +28,12 @@ Meu nome é Jonatha Rihan, Bacharelando em Ciência da Computação e Desenvolve
 
 
 **This week I spent my time on**
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=rbioz&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+</details>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rbioz&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbioz&layout=compact)](https://github.com/rbioz/rbioz/README.md)
-[![rbioz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@RBioZ)](https://github.com/rbioz/rbioz/README.md)
+<details>
+  <summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbioz&layout=compact&bg_color=ffffff&text_color=333333">
+</details>
