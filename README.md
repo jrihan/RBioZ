@@ -12,7 +12,7 @@ Meu nome é Jonatha Rihan, Bacharelando em Ciência da Computação e Desenvolve
 
 - :office_worker: Desenvolvedor Frontend/Mobile na Eagle Bank Digital
 - :purple_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript e mais!
-- :iphone: 3 Aplicativos publicados na Google PlayStore
+- :iphone: 4 Aplicativos publicados na Google PlayStore
 
 **Languages and Tools**  
 
