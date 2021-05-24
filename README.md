@@ -10,9 +10,9 @@
 
 Meu nome é Jonatha Rihan, Bacharelando em Ciência da Computação e Desenvolvedor na Eagle Bank Digital. 
 
-- :office_worker: Desenvolvedor Frontend/Mobile na Eagle Bank Digital
+- :office_worker: Desenvolvedor Frontend/Mobile na ClickSoft
 - :purple_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript e mais!
-- :iphone: 4 Aplicativos publicados na Google PlayStore
+- :iphone: Criador da rede social Mood
 
 **Languages and Tools**  
 
