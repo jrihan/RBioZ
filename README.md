@@ -8,11 +8,11 @@
 
 ## Olá! :)
 
-Meu nome é Jonatha Rihan, Bacharelando em Ciência da Computação e Desenvolvedor na Eagle Bank Digital. 
+Meu nome é Jonatha Rihan, Bacharelando em Ciência da Computação e Desenvolvedor na ClickSoft. 
 
 - :office_worker: Desenvolvedor Frontend/Mobile na ClickSoft
 - :purple_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript e mais!
-- :iphone: Criador da rede social Mood
+- :iphone: Criador da rede social Mood https://play.google.com/store/apps/details?id=com.rbioz.mood&hl=pt_BR&gl=US
 
 **Languages and Tools**  
 
