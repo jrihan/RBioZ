@@ -1,4 +1,4 @@
-# Jonathan Ryan :man_technologist:
+# Jonatha Rihan :man_technologist:
 
 ![Github visitors](https://komarev.com/ghpvc/?username=rbioz&color=7159c0&style=flat-square)
 ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RBioZ)
