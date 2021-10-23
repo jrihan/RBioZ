@@ -8,9 +8,9 @@
 
 ## Olá! :)
 
-Meu nome é Jonatha Rihan, Bacharelando em Ciência da Computação e Desenvolvedor na ClickSoft. 
+Meu nome é Jonatha Rihan, Bacharelando em Ciência da Computação e Desenvolvedor Mobile. 
 
-- :office_worker: Desenvolvedor Frontend/Mobile na ClickSoft
+- :office_worker: Desenvolvedor Frontend/Mobile.
 - :purple_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript e mais!
 - :iphone: Criador da rede social Mood https://play.google.com/store/apps/details?id=com.rbioz.mood&hl=pt_BR&gl=US
 
@@ -25,6 +25,8 @@ Meu nome é Jonatha Rihan, Bacharelando em Ciência da Computação e Desenvolve
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>
+
 
 
 **This week I spent my time on**
